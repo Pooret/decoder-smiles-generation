@@ -75,4 +75,4 @@ directory.txt
 wandb/
 wandb/latest-run
 wandb/debug-internal.log
-wandb/debug.log
+wandb/debug.logvenv/
